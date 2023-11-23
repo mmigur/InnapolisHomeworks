@@ -1,0 +1,1 @@
+print("Link on my GitHub: https://github.com/mmigur/InnapolisHomeworks")
